@@ -6,10 +6,10 @@ Done :
 * 2_tf_add.ipynb - Addition operation.
 * 3_tf_variable_initialization.ipynb - TF Variables, and initialization.
 * 4_tf_device_detect.ipynb - Detect the devices on a computer.
+* 5_tf_device_pinning - Pin an operation to a particular device.
 
 Pending :
 
-* Pin an operation to a particular device.
 * TF Placeholders.
 * Feeding dictionary to pass in values in a session. 
 * Matrix multiplication.
